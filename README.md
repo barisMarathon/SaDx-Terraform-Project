@@ -68,7 +68,7 @@ Daha okunabilir JSON a benzeyen bir listeleme dili.
 
 1. `az login`  
 2. `az account show` (bilgilerini görüntüle ve aşağıdaki templatteki komutu çalıştır (step_3))  
-3.  
-```bash
+3.  ```bash
 $env:ARM_SUBSCRIPTION_ID="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 $env:ARM_TENANT_ID="yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy"
+
